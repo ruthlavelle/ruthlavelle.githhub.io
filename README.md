@@ -7,3 +7,9 @@ Chapter 1: https://github.com/ruthlavelle/year3-story-2018/blob/master/chapter01
 Chapter 2: https://github.com/ruthlavelle/year3-story-2018/blob/master/chapter02.html
 
 Chapter 3: https://github.com/ruthlavelle/year3-story-2018/blob/master/chapter03.html
+
+The link to the alternative ending repository can be found here: https://github.com/ruthlavelle/year3-story-2018/tree/alternative_ending
+
+The link to the chapter 3 alternative ending can be found here: https://github.com/ruthlavelle/year3-story-2018/blob/alternative_ending/chapter03.html
+
+
